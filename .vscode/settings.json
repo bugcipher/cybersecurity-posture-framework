@@ -1,0 +1,29 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\554ra\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}",
+    "c:/Users/554ra/Downloads/project",
+    "c:/Users/554ra/Downloads/project/core",
+    "c:/Users/554ra/Downloads/project/dashboard",
+    "c:/Users/554ra/Downloads/project/simulation",
+    "C:\\Users\\554ra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}",
+    "c:/Users/554ra/Downloads/project",
+    "c:/Users/554ra/Downloads/project/core",
+    "c:/Users/554ra/Downloads/project/dashboard",
+    "c:/Users/554ra/Downloads/project/simulation",
+    "C:\\Users\\554ra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages"
+  ],
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportAttributeAccessIssue": "none",
+    "reportUndefinedVariable": "none",
+    "reportOptionalSubscript": "none",
+    "reportOptionalMemberAccess": "none"
+  }
+}

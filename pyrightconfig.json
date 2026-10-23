@@ -1,0 +1,27 @@
+{
+  "include": [
+    "core",
+    "dashboard",
+    "experiments",
+    "simulation",
+    "tests"
+  ],
+  "exclude": [
+    "**/__pycache__"
+  ],
+  "pythonPath": "C:\\Users\\554ra\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "extraPaths": [
+    "c:/Users/554ra/Downloads/project",
+    "c:/Users/554ra/Downloads/project/core",
+    "c:/Users/554ra/Downloads/project/dashboard",
+    "c:/Users/554ra/Downloads/project/simulation",
+    "C:\\Users\\554ra\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages"
+  ],
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": false,
+  "reportUndefinedVariable": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportOptionalSubscript": "none",
+  "reportOptionalMemberAccess": "none"
+}
